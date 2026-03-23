@@ -1,0 +1,34 @@
+{
+  "name": "maxdom.web.landing.devcontainer",
+  "build": {
+    "dockerfile": "Dockerfile",
+    "context": ".."
+  },
+  "containerEnv": {
+    "ANSIBLE_VAULT_PASSWORD_FILE": "/home/vscode/.ansible/vault.pass",
+    "ANSIBLE_LOCAL_TEMP": "/tmp/.ansible-local"
+  },
+  "customizations": {
+    "vscode": {
+      "settings": {
+        "editor.formatOnSave": true
+      },
+      "extensions": [
+        "eamodio.gitlens",
+        "ms-azuretools.vscode-containers",
+        "openai.chatgpt",
+        "trunk.io"
+      ]
+    }
+  },
+  "forwardPorts": [],
+  "postStartCommand": "",
+  "containerUser": "vscode",
+  "runArgs": ["--userns=keep-id", "--add-host=gitea.internal:host-gateway"],
+  "workspaceMount": "source=${localWorkspaceFolder},target=/workspace,type=bind,Z",
+  "workspaceFolder": "/workspace",
+  "mounts": [
+    "source=${localWorkspaceFolderBasename}-home,target=/home/vscode,type=volume"
+  ],
+  "postCreateCommand": "bash -lc 'bash /workspace/.devcontainer/postCreate.sh'"
+}
