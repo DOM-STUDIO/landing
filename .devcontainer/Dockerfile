@@ -9,6 +9,8 @@ HEALTHCHECK --interval=30s --timeout=5s --start-period=20s --retries=3 \
 RUN dnf -y install \
       python3-pip \
       nodejs \
+      python3-identify \
+      jq \
  && dnf -y clean all \
  && rm -rf /var/cache/dnf
 
