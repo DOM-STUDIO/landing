@@ -33,3 +33,26 @@ python -m http.server 8000 --directory website
 
 Автодеплой в GitHub Pages настроен через `.github/workflows/deploy-pages.yml`.
 Публикуется только содержимое директории `website/`.
+
+### First-time GitHub Pages setup
+
+Если первый запуск workflow падает на шаге `Configure GitHub Pages` с ошибкой вида `Get Pages site failed`, это означает, что GitHub Pages ещё не включён для репозитория.
+
+Сделайте один из двух вариантов:
+
+1. Вручную:
+
+   - открыть `Settings -> Pages`
+   - в блоке `Build and deployment`
+   - в поле `Source` выбрать `GitHub Actions`
+   - сохранить настройки
+   - заново запустить workflow
+
+2. Автоматически:
+
+   - создать secret `PAGES_ENABLEMENT_TOKEN`
+   - токен должен быть не `GITHUB_TOKEN`
+   - для `Personal Access Token` нужны права `repo` или Pages write
+   - для GitHub App нужны `administration:write` и `pages:write`
+
+Если Pages уже включён и source выставлен в `GitHub Actions`, workflow должен проходить без дополнительных действий.
