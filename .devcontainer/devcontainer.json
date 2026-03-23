@@ -17,7 +17,8 @@
         "eamodio.gitlens",
         "ms-azuretools.vscode-containers",
         "openai.chatgpt",
-        "trunk.io"
+        "trunk.io",
+        "tomoki1207.pdf"
       ]
     }
   },
