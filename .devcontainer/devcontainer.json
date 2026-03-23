@@ -18,7 +18,8 @@
         "ms-azuretools.vscode-containers",
         "openai.chatgpt",
         "trunk.io",
-        "tomoki1207.pdf"
+        "tomoki1207.pdf",
+        "github.vscode-github-actions"
       ]
     }
   },
