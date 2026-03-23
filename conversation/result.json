@@ -1,0 +1,1964 @@
+{
+ "name": "Dom.Studio Website",
+ "type": "private_supergroup",
+ "id": 3731549466,
+ "messages": [
+  {
+   "id": -999938189,
+   "type": "message",
+   "date": "2026-03-19T15:19:46",
+   "date_unixtime": "1773926386",
+   "from": "Max Dom",
+   "from_id": "user2124993784",
+   "text": "Понял .",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Понял ."
+    }
+   ]
+  },
+  {
+   "id": -999938188,
+   "type": "message",
+   "date": "2026-03-19T15:20:02",
+   "date_unixtime": "1773926402",
+   "from": "Max Dom",
+   "from_id": "user2124993784",
+   "text": "А как мы в  итоге определились делать ?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "А как мы в  итоге определились делать ?"
+    }
+   ]
+  },
+  {
+   "id": -999938187,
+   "type": "message",
+   "date": "2026-03-19T15:20:12",
+   "date_unixtime": "1773926412",
+   "from": "Max Dom",
+   "from_id": "user2124993784",
+   "text": "Лук сайта",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Лук сайта"
+    }
+   ]
+  },
+  {
+   "id": -999938186,
+   "type": "message",
+   "date": "2026-03-19T15:20:12",
+   "date_unixtime": "1773926412",
+   "from": "Maxim",
+   "from_id": "user278171105",
+   "text": "не знал что вы такие штуки делаете, прикольно",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "не знал что вы такие штуки делаете, прикольно"
+    }
+   ]
+  },
+  {
+   "id": -999938185,
+   "type": "message",
+   "date": "2026-03-19T15:20:19",
+   "date_unixtime": "1773926419",
+   "from": "Max Dom",
+   "from_id": "user2124993784",
+   "text": "Делаю да)",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Делаю да)"
+    }
+   ]
+  },
+  {
+   "id": -999938184,
+   "type": "message",
+   "date": "2026-03-19T15:20:58",
+   "date_unixtime": "1773926458",
+   "from": "Maxim",
+   "from_id": "user278171105",
+   "text": "я уже не помню, надо будет вспоминать",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "я уже не помню, надо будет вспоминать"
+    }
+   ]
+  },
+  {
+   "id": -999938183,
+   "type": "message",
+   "date": "2026-03-19T15:21:36",
+   "date_unixtime": "1773926496",
+   "from": "Max Dom",
+   "from_id": "user2124993784",
+   "text": "А когда можем начать",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "А когда можем начать"
+    }
+   ]
+  },
+  {
+   "id": -999938182,
+   "type": "message",
+   "date": "2026-03-19T15:21:53",
+   "date_unixtime": "1773926513",
+   "from": "Maxim",
+   "from_id": "user278171105",
+   "text": "думаю в апреле",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "думаю в апреле"
+    }
+   ]
+  },
+  {
+   "id": -999938181,
+   "type": "message",
+   "date": "2026-03-19T15:22:46",
+   "date_unixtime": "1773926566",
+   "from": "Max Dom",
+   "from_id": "user2124993784",
+   "text": "А пока мимо ваще?(",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "А пока мимо ваще?("
+    }
+   ]
+  },
+  {
+   "id": -999938180,
+   "type": "message",
+   "date": "2026-03-19T15:24:13",
+   "date_unixtime": "1773926653",
+   "from": "Maxim",
+   "from_id": "user278171105",
+   "text": "я пока не успеваю нихрена по остальным проектам...",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "я пока не успеваю нихрена по остальным проектам..."
+    }
+   ]
+  },
+  {
+   "id": -999938179,
+   "type": "message",
+   "date": "2026-03-19T15:24:29",
+   "date_unixtime": "1773926669",
+   "from": "Maxim",
+   "from_id": "user278171105",
+   "text": "тут последняя версия была",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "тут последняя версия была"
+    }
+   ]
+  },
+  {
+   "id": -999938178,
+   "type": "message",
+   "date": "2026-03-19T15:35:44",
+   "date_unixtime": "1773927344",
+   "from": "Max Dom",
+   "from_id": "user2124993784",
+   "text": "Эх)",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Эх)"
+    }
+   ]
+  },
+  {
+   "id": -999938177,
+   "type": "message",
+   "date": "2026-03-19T15:45:44",
+   "date_unixtime": "1773927944",
+   "from": "Max Dom",
+   "from_id": "user2124993784",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://sivona.ee/ru/?utm_source=chatgpt.com"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://sivona.ee/ru/?utm_source=chatgpt.com"
+    }
+   ]
+  },
+  {
+   "id": -999938176,
+   "type": "message",
+   "date": "2026-03-19T15:46:56",
+   "date_unixtime": "1773928016",
+   "from": "Max Dom",
+   "from_id": "user2124993784",
+   "text": [
+    "Отлично, давай разложим сразу в двух плоскостях: ",
+    {
+     "type": "bold",
+     "text": "что сейчас реально покупают в Эстонии"
+    },
+    " и ",
+    {
+     "type": "bold",
+     "text": "что выгодно делать/продавать"
+    },
+    " 👇\n\n⸻\n\n",
+    {
+     "type": "bold",
+     "text": "🛒 Что сейчас лучше всего продаётся (реальный спрос)"
+    },
+    "\n\n",
+    {
+     "type": "bold",
+     "text": "🧩 1. Декор из дерева (ТОП-сегмент)"
+    },
+    "\n\nСамый заметный тренд сейчас:\n • 3D карты мира / Европы / Эстонии\n • панно и настенные украшения\n • деревянные часы\n\n👉 Причина:\n • люди хотят уют + скандинавский стиль\n • популярны подарки “с характером”\n\n⸻\n\n",
+    {
+     "type": "bold",
+     "text": "🍴 2. Кухонные изделия"
+    },
+    "\n\nСтабильный спрос, всегда продаётся:\n • разделочные доски (особенно красивые, толстые)\n • сервировочные доски\n • деревянные ложки\n\n👉 Важно: простая доска ≠ продаётся\n👉 Дизайн + обработка = продаётся\n\n⸻\n\n",
+    {
+     "type": "bold",
+     "text": "🧖 3. Сауна-товары"
+    },
+    "\n\nОчень локальный и устойчивый рынок:\n • ковши\n • ведра\n • аксессуары\n\n👉 Сауна в Эстонии — почти как культура, спрос постоянный\n\n⸻\n\n",
+    {
+     "type": "bold",
+     "text": "🎁 4. Персонализированные подарки"
+    },
+    "\n\nОчень сильный тренд:\n • гравировка имени\n • даты\n • координаты места\n\n👉 Особенно:\n • на свадьбы\n • дни рождения\n • новоселье\n\n⸻\n\n",
+    {
+     "type": "bold",
+     "text": "🪑 5. Маленькая мебель / интерьер"
+    },
+    "\n\nЛучше всего идут:\n • полки\n • табуреты\n • прикроватные столики\n\n👉 Большая мебель продаётся сложнее (дороже, логистика)\n\n⸻\n\n",
+    {
+     "type": "bold",
+     "text": "💰 Что ВЫГОДНО делать (если хочешь зарабатывать)"
+    },
+    "\n\nТеперь самое важное — не всё, что популярно, прибыльно 👇\n\n⸻\n\n",
+    {
+     "type": "bold",
+     "text": "🥇 Лучшие ниши (баланс спрос + прибыль)"
+    },
+    "\n\n",
+    {
+     "type": "bold",
+     "text": "1. Декор с “вау-эффектом”"
+    },
+    "\n\n👉 Примеры:\n • карты из дерева\n • светящиеся панно\n • layered (многослойные) изделия\n\n💡 Почему:\n • высокая наценка\n • низкая себестоимость\n • легко продавать онлайн\n\n⸻\n\n",
+    {
+     "type": "bold",
+     "text": "2. Персонализация (золото 💰)"
+    },
+    "\n\n👉 Любой продукт + гравировка = x2 к цене\n\nПримеры:\n • доска с именем\n • карта с меткой дома\n • таблички\n\n💡 Это сейчас один из самых прибыльных сегментов\n\n⸻\n\n",
+    {
+     "type": "bold",
+     "text": "3. Премиум кухонка"
+    },
+    "\n\nНе дешёвые вещи, а:\n • толстые доски\n • красивые текстуры\n • “инстаграмный” вид\n\n👉 Люди готовы платить за эстетику\n\n⸻\n\n",
+    {
+     "type": "bold",
+     "text": "4. Минималистичный сканди-дизайн"
+    },
+    "\n\nОчень в духе Эстонии:\n • светлое дерево\n • простые формы\n • без “перегруза”\n\n👉 Это продаётся лучше, чем “резные” вещи\n\n⸻\n\n",
+    {
+     "type": "bold",
+     "text": "5. Etsy / экспорт (очень важно)"
+    },
+    "\n\nЭстония маленькая → основной доход часто идёт снаружи\n\n👉 Площадки:\n • ",
+    {
+     "type": "underline",
+     "text": "Etsy"
+    },
+    "\n • ",
+    {
+     "type": "underline",
+     "text": "Amazon"
+    },
+    "\n • локально: ",
+    {
+     "type": "underline",
+     "text": "Facebook Marketplace"
+    },
+    "\n\n💡 Многие эстонские мастера живут именно за счёт экспорта\n\n⸻\n\n",
+    {
+     "type": "bold",
+     "text": "⚠️ Что делать НЕ стоит (или осторожно)"
+    },
+    "\n\n❌ Дешёвые сувениры\n→ конкуренция + низкая маржа\n\n❌ Сложная резьба “под старину”\n→ долго делать, мало платят\n\n❌ Большая мебель\n→ логистика съедает прибыль\n\n⸻\n\n",
+    {
+     "type": "bold",
+     "text": "🚀 Простая стратегия (если начинаешь)"
+    },
+    "\n 1. Начни с:\n • разделочных досок + гравировка\n • или маленький декор\n 2. Добавь:\n • персонализацию\n 3. Продавай:\n • сначала локально (Narva / Tallinn)\n • потом выходи на Etsy\n\n⸻\n\n",
+    {
+     "type": "bold",
+     "text": "💡 Итог"
+    },
+    "\n\n✔️ Что покупают:\n • декор\n • кухонные изделия\n • подарки\n • sauna stuff\n\n✔️ Где деньги:\n • персонализация\n • дизайн\n • экспорт\n\n👉 Ключевая идея:\n",
+    {
+     "type": "bold",
+     "text": "обычная вещь = дешёвая\nта же вещь + дизайн + история = дорогая"
+    },
+    "\n\n⸻\n\nЕсли хочешь, могу:\n • предложить конкретные идеи изделий под твой бюджет\n • или посчитать, сколько можно зарабатывать с одной позиции 👍"
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Отлично, давай разложим сразу в двух плоскостях: "
+    },
+    {
+     "type": "bold",
+     "text": "что сейчас реально покупают в Эстонии"
+    },
+    {
+     "type": "plain",
+     "text": " и "
+    },
+    {
+     "type": "bold",
+     "text": "что выгодно делать/продавать"
+    },
+    {
+     "type": "plain",
+     "text": " 👇\n\n⸻\n\n"
+    },
+    {
+     "type": "bold",
+     "text": "🛒 Что сейчас лучше всего продаётся (реальный спрос)"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "bold",
+     "text": "🧩 1. Декор из дерева (ТОП-сегмент)"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nСамый заметный тренд сейчас:\n • 3D карты мира / Европы / Эстонии\n • панно и настенные украшения\n • деревянные часы\n\n👉 Причина:\n • люди хотят уют + скандинавский стиль\n • популярны подарки “с характером”\n\n⸻\n\n"
+    },
+    {
+     "type": "bold",
+     "text": "🍴 2. Кухонные изделия"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nСтабильный спрос, всегда продаётся:\n • разделочные доски (особенно красивые, толстые)\n • сервировочные доски\n • деревянные ложки\n\n👉 Важно: простая доска ≠ продаётся\n👉 Дизайн + обработка = продаётся\n\n⸻\n\n"
+    },
+    {
+     "type": "bold",
+     "text": "🧖 3. Сауна-товары"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nОчень локальный и устойчивый рынок:\n • ковши\n • ведра\n • аксессуары\n\n👉 Сауна в Эстонии — почти как культура, спрос постоянный\n\n⸻\n\n"
+    },
+    {
+     "type": "bold",
+     "text": "🎁 4. Персонализированные подарки"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nОчень сильный тренд:\n • гравировка имени\n • даты\n • координаты места\n\n👉 Особенно:\n • на свадьбы\n • дни рождения\n • новоселье\n\n⸻\n\n"
+    },
+    {
+     "type": "bold",
+     "text": "🪑 5. Маленькая мебель / интерьер"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nЛучше всего идут:\n • полки\n • табуреты\n • прикроватные столики\n\n👉 Большая мебель продаётся сложнее (дороже, логистика)\n\n⸻\n\n"
+    },
+    {
+     "type": "bold",
+     "text": "💰 Что ВЫГОДНО делать (если хочешь зарабатывать)"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nТеперь самое важное — не всё, что популярно, прибыльно 👇\n\n⸻\n\n"
+    },
+    {
+     "type": "bold",
+     "text": "🥇 Лучшие ниши (баланс спрос + прибыль)"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "bold",
+     "text": "1. Декор с “вау-эффектом”"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n👉 Примеры:\n • карты из дерева\n • светящиеся панно\n • layered (многослойные) изделия\n\n💡 Почему:\n • высокая наценка\n • низкая себестоимость\n • легко продавать онлайн\n\n⸻\n\n"
+    },
+    {
+     "type": "bold",
+     "text": "2. Персонализация (золото 💰)"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n👉 Любой продукт + гравировка = x2 к цене\n\nПримеры:\n • доска с именем\n • карта с меткой дома\n • таблички\n\n💡 Это сейчас один из самых прибыльных сегментов\n\n⸻\n\n"
+    },
+    {
+     "type": "bold",
+     "text": "3. Премиум кухонка"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nНе дешёвые вещи, а:\n • толстые доски\n • красивые текстуры\n • “инстаграмный” вид\n\n👉 Люди готовы платить за эстетику\n\n⸻\n\n"
+    },
+    {
+     "type": "bold",
+     "text": "4. Минималистичный сканди-дизайн"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nОчень в духе Эстонии:\n • светлое дерево\n • простые формы\n • без “перегруза”\n\n👉 Это продаётся лучше, чем “резные” вещи\n\n⸻\n\n"
+    },
+    {
+     "type": "bold",
+     "text": "5. Etsy / экспорт (очень важно)"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nЭстония маленькая → основной доход часто идёт снаружи\n\n👉 Площадки:\n • "
+    },
+    {
+     "type": "underline",
+     "text": "Etsy"
+    },
+    {
+     "type": "plain",
+     "text": "\n • "
+    },
+    {
+     "type": "underline",
+     "text": "Amazon"
+    },
+    {
+     "type": "plain",
+     "text": "\n • локально: "
+    },
+    {
+     "type": "underline",
+     "text": "Facebook Marketplace"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n💡 Многие эстонские мастера живут именно за счёт экспорта\n\n⸻\n\n"
+    },
+    {
+     "type": "bold",
+     "text": "⚠️ Что делать НЕ стоит (или осторожно)"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n❌ Дешёвые сувениры\n→ конкуренция + низкая маржа\n\n❌ Сложная резьба “под старину”\n→ долго делать, мало платят\n\n❌ Большая мебель\n→ логистика съедает прибыль\n\n⸻\n\n"
+    },
+    {
+     "type": "bold",
+     "text": "🚀 Простая стратегия (если начинаешь)"
+    },
+    {
+     "type": "plain",
+     "text": "\n 1. Начни с:\n • разделочных досок + гравировка\n • или маленький декор\n 2. Добавь:\n • персонализацию\n 3. Продавай:\n • сначала локально (Narva / Tallinn)\n • потом выходи на Etsy\n\n⸻\n\n"
+    },
+    {
+     "type": "bold",
+     "text": "💡 Итог"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n✔️ Что покупают:\n • декор\n • кухонные изделия\n • подарки\n • sauna stuff\n\n✔️ Где деньги:\n • персонализация\n • дизайн\n • экспорт\n\n👉 Ключевая идея:\n"
+    },
+    {
+     "type": "bold",
+     "text": "обычная вещь = дешёвая\nта же вещь + дизайн + история = дорогая"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n⸻\n\nЕсли хочешь, могу:\n • предложить конкретные идеи изделий под твой бюджет\n • или посчитать, сколько можно зарабатывать с одной позиции 👍"
+    }
+   ]
+  },
+  {
+   "id": -999938175,
+   "type": "message",
+   "date": "2026-03-19T16:09:36",
+   "date_unixtime": "1773929376",
+   "from": "Maxim",
+   "from_id": "user278171105",
+   "text": "это что такое?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "это что такое?"
+    }
+   ]
+  },
+  {
+   "id": -999938174,
+   "type": "message",
+   "date": "2026-03-19T16:10:32",
+   "date_unixtime": "1773929432",
+   "from": "Maxim",
+   "from_id": "user278171105",
+   "text": "нужно понять что ты хочешь. как я понял мы вначале просто делаем сайт визитку, будет рассказано что есть вот вы, примеры работ и тд",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "нужно понять что ты хочешь. как я понял мы вначале просто делаем сайт визитку, будет рассказано что есть вот вы, примеры работ и тд"
+    }
+   ]
+  },
+  {
+   "id": -999938173,
+   "type": "message",
+   "date": "2026-03-19T16:11:03",
+   "date_unixtime": "1773929463",
+   "from": "Maxim",
+   "from_id": "user278171105",
+   "text": "интернет-магазин - это достаточно сложно",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "интернет-магазин - это достаточно сложно"
+    }
+   ]
+  },
+  {
+   "id": -999938172,
+   "type": "message",
+   "date": "2026-03-19T17:45:54",
+   "date_unixtime": "1773935154",
+   "from": "Max Dom",
+   "from_id": "user2124993784",
+   "text": "А так дохуя да , делать ? Просто может по тихонько можно начать - есть просто пару серьезных коиентов- фирм- которым было б заебис кинуть такую визитку",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "А так дохуя да , делать ? Просто может по тихонько можно начать - есть просто пару серьезных коиентов- фирм- которым было б заебис кинуть такую визитку"
+    }
+   ]
+  },
+  {
+   "id": -999938171,
+   "type": "message",
+   "date": "2026-03-19T17:52:04",
+   "date_unixtime": "1773935524",
+   "from": "Maxim",
+   "from_id": "user278171105",
+   "text": "ну вот я так потихоньку другое делаю. этот месяц два проекта надо закрыть, вероятно ещё следующая неделя",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "ну вот я так потихоньку другое делаю. этот месяц два проекта надо закрыть, вероятно ещё следующая неделя"
+    }
+   ]
+  },
+  {
+   "id": -999938170,
+   "type": "message",
+   "date": "2026-03-19T17:52:35",
+   "date_unixtime": "1773935555",
+   "from": "Maxim",
+   "from_id": "user278171105",
+   "text": "ну нормально. пару дней точно надо посидеть чтобы довести до вида который можно было бы показывать",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "ну нормально. пару дней точно надо посидеть чтобы довести до вида который можно было бы показывать"
+    }
+   ]
+  },
+  {
+   "id": -999938169,
+   "type": "message",
+   "date": "2026-03-19T17:54:22",
+   "date_unixtime": "1773935662",
+   "from": "Max Dom",
+   "from_id": "user2124993784",
+   "text": "Может я могу как то помочь , и ускорить",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Может я могу как то помочь , и ускорить"
+    }
+   ]
+  },
+  {
+   "id": -999938168,
+   "type": "message",
+   "date": "2026-03-19T17:59:17",
+   "date_unixtime": "1773935957",
+   "from": "Maxim",
+   "from_id": "user278171105",
+   "text": "нужно из фоток что ты скинул выбрать самые топовые, которые ты бы точно хотел видеть на сайте. и скинь мне их файлами а не картинками. а то если картинкой - качество режется, нужны оригиналы короче для лучшего эффекта",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "нужно из фоток что ты скинул выбрать самые топовые, которые ты бы точно хотел видеть на сайте. и скинь мне их файлами а не картинками. а то если картинкой - качество режется, нужны оригиналы короче для лучшего эффекта"
+    }
+   ]
+  },
+  {
+   "id": -999938167,
+   "type": "message",
+   "date": "2026-03-19T18:00:22",
+   "date_unixtime": "1773936022",
+   "from": "Maxim",
+   "from_id": "user278171105",
+   "file": "files/photo_2025-11-18_21-42-18.jpg",
+   "file_name": "photo_2025-11-18_21-42-18.jpg",
+   "file_size": 235967,
+   "thumbnail": "files/photo_2025-11-18_21-42-18.jpg_thumb.jpg",
+   "thumbnail_file_size": 26578,
+   "mime_type": "image/jpeg",
+   "width": 1280,
+   "height": 1280,
+   "text": "типа вот так. это картинка которая файлом скинута",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "типа вот так. это картинка которая файлом скинута"
+    }
+   ]
+  },
+  {
+   "id": -999938166,
+   "type": "message",
+   "date": "2026-03-19T18:10:22",
+   "date_unixtime": "1773936622",
+   "from": "Max Dom",
+   "from_id": "user2124993784",
+   "file": "files/IMG_1422.PNG",
+   "file_name": "IMG_1422.PNG",
+   "file_size": 1454483,
+   "thumbnail": "files/IMG_1422.PNG_thumb.jpg",
+   "thumbnail_file_size": 12177,
+   "mime_type": "image/png",
+   "width": 1024,
+   "height": 1536,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": -999938165,
+   "type": "message",
+   "date": "2026-03-19T18:10:22",
+   "date_unixtime": "1773936622",
+   "from": "Max Dom",
+   "from_id": "user2124993784",
+   "file": "files/IMG_1424.PNG",
+   "file_name": "IMG_1424.PNG",
+   "file_size": 1808883,
+   "thumbnail": "files/IMG_1424.PNG_thumb.jpg",
+   "thumbnail_file_size": 12896,
+   "mime_type": "image/png",
+   "width": 1024,
+   "height": 1536,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": -999938164,
+   "type": "message",
+   "date": "2026-03-19T18:10:22",
+   "date_unixtime": "1773936622",
+   "from": "Max Dom",
+   "from_id": "user2124993784",
+   "file": "files/IMG_1425.PNG",
+   "file_name": "IMG_1425.PNG",
+   "file_size": 2185140,
+   "thumbnail": "files/IMG_1425.PNG_thumb.jpg",
+   "thumbnail_file_size": 18008,
+   "mime_type": "image/png",
+   "width": 1024,
+   "height": 1536,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": -999938163,
+   "type": "message",
+   "date": "2026-03-19T18:10:22",
+   "date_unixtime": "1773936622",
+   "from": "Max Dom",
+   "from_id": "user2124993784",
+   "file": "files/IMG_1368.JPG",
+   "file_name": "IMG_1368.JPG",
+   "file_size": 51043,
+   "thumbnail": "files/IMG_1368.JPG_thumb.jpg",
+   "thumbnail_file_size": 11976,
+   "mime_type": "image/jpeg",
+   "width": 750,
+   "height": 730,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": -999938162,
+   "type": "message",
+   "date": "2026-03-19T18:10:22",
+   "date_unixtime": "1773936622",
+   "from": "Max Dom",
+   "from_id": "user2124993784",
+   "file": "files/IMG_1367.JPG",
+   "file_name": "IMG_1367.JPG",
+   "file_size": 104465,
+   "thumbnail": "files/IMG_1367.JPG_thumb.jpg",
+   "thumbnail_file_size": 22395,
+   "mime_type": "image/jpeg",
+   "width": 750,
+   "height": 738,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": -999938161,
+   "type": "message",
+   "date": "2026-03-19T18:10:22",
+   "date_unixtime": "1773936622",
+   "from": "Max Dom",
+   "from_id": "user2124993784",
+   "file": "files/IMG_1366.JPG",
+   "file_name": "IMG_1366.JPG",
+   "file_size": 69530,
+   "thumbnail": "files/IMG_1366.JPG_thumb.jpg",
+   "thumbnail_file_size": 16288,
+   "mime_type": "image/jpeg",
+   "width": 750,
+   "height": 738,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": -999938160,
+   "type": "message",
+   "date": "2026-03-19T18:10:22",
+   "date_unixtime": "1773936622",
+   "from": "Max Dom",
+   "from_id": "user2124993784",
+   "file": "files/IMG_1209.PNG",
+   "file_name": "IMG_1209.PNG",
+   "file_size": 2673211,
+   "thumbnail": "files/IMG_1209.PNG_thumb.jpg",
+   "thumbnail_file_size": 15250,
+   "mime_type": "image/png",
+   "width": 1024,
+   "height": 1536,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": -999938159,
+   "type": "message",
+   "date": "2026-03-19T18:10:22",
+   "date_unixtime": "1773936622",
+   "from": "Max Dom",
+   "from_id": "user2124993784",
+   "file": "files/IMG_1183.PNG",
+   "file_name": "IMG_1183.PNG",
+   "file_size": 3704481,
+   "thumbnail": "files/IMG_1183.PNG_thumb.jpg",
+   "thumbnail_file_size": 19858,
+   "mime_type": "image/png",
+   "width": 1536,
+   "height": 1024,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": -999938158,
+   "type": "message",
+   "date": "2026-03-19T18:10:22",
+   "date_unixtime": "1773936622",
+   "from": "Max Dom",
+   "from_id": "user2124993784",
+   "file": "files/IMG_1147.PNG",
+   "file_name": "IMG_1147.PNG",
+   "file_size": 1999615,
+   "thumbnail": "files/IMG_1147.PNG_thumb.jpg",
+   "thumbnail_file_size": 14297,
+   "mime_type": "image/png",
+   "width": 1024,
+   "height": 1536,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": -999938157,
+   "type": "message",
+   "date": "2026-03-19T18:10:22",
+   "date_unixtime": "1773936622",
+   "from": "Max Dom",
+   "from_id": "user2124993784",
+   "file": "files/IMG_1148.PNG",
+   "file_name": "IMG_1148.PNG",
+   "file_size": 3163646,
+   "thumbnail": "files/IMG_1148.PNG_thumb.jpg",
+   "thumbnail_file_size": 14950,
+   "mime_type": "image/png",
+   "width": 1024,
+   "height": 1536,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": -999938156,
+   "type": "message",
+   "date": "2026-03-19T18:10:59",
+   "date_unixtime": "1773936659",
+   "from": "Max Dom",
+   "from_id": "user2124993784",
+   "file": "files/IMG_1110.PNG",
+   "file_name": "IMG_1110.PNG",
+   "file_size": 2142574,
+   "thumbnail": "files/IMG_1110.PNG_thumb.jpg",
+   "thumbnail_file_size": 17676,
+   "mime_type": "image/png",
+   "width": 1024,
+   "height": 1536,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": -999938155,
+   "type": "message",
+   "date": "2026-03-19T18:10:59",
+   "date_unixtime": "1773936659",
+   "from": "Max Dom",
+   "from_id": "user2124993784",
+   "file": "files/IMG_1108.PNG",
+   "file_name": "IMG_1108.PNG",
+   "file_size": 2361129,
+   "thumbnail": "files/IMG_1108.PNG_thumb.jpg",
+   "thumbnail_file_size": 15580,
+   "mime_type": "image/png",
+   "width": 1024,
+   "height": 1536,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": -999938154,
+   "type": "message",
+   "date": "2026-03-19T18:10:59",
+   "date_unixtime": "1773936659",
+   "from": "Max Dom",
+   "from_id": "user2124993784",
+   "file": "files/IMG_1109.PNG",
+   "file_name": "IMG_1109.PNG",
+   "file_size": 3596661,
+   "thumbnail": "files/IMG_1109.PNG_thumb.jpg",
+   "thumbnail_file_size": 27024,
+   "mime_type": "image/png",
+   "width": 1024,
+   "height": 1536,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": -999938153,
+   "type": "message",
+   "date": "2026-03-19T18:10:59",
+   "date_unixtime": "1773936659",
+   "from": "Max Dom",
+   "from_id": "user2124993784",
+   "file": "files/IMG_1058.PNG",
+   "file_name": "IMG_1058.PNG",
+   "file_size": 2385003,
+   "thumbnail": "files/IMG_1058.PNG_thumb.jpg",
+   "thumbnail_file_size": 15386,
+   "mime_type": "image/png",
+   "width": 1024,
+   "height": 1536,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": -999938152,
+   "type": "message",
+   "date": "2026-03-19T18:10:59",
+   "date_unixtime": "1773936659",
+   "from": "Max Dom",
+   "from_id": "user2124993784",
+   "file": "files/IMG_1036.JPG",
+   "file_name": "IMG_1036.JPG",
+   "file_size": 494050,
+   "thumbnail": "files/IMG_1036.JPG_thumb.jpg",
+   "thumbnail_file_size": 32784,
+   "mime_type": "image/jpeg",
+   "width": 1024,
+   "height": 1024,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": -999938151,
+   "type": "message",
+   "date": "2026-03-19T18:10:59",
+   "date_unixtime": "1773936659",
+   "from": "Max Dom",
+   "from_id": "user2124993784",
+   "file": "files/IMG_0881.PNG",
+   "file_name": "IMG_0881.PNG",
+   "file_size": 1637031,
+   "thumbnail": "files/IMG_0881.PNG_thumb.jpg",
+   "thumbnail_file_size": 9956,
+   "mime_type": "image/png",
+   "width": 1536,
+   "height": 1024,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": -999938150,
+   "type": "message",
+   "date": "2026-03-19T18:10:59",
+   "date_unixtime": "1773936659",
+   "from": "Max Dom",
+   "from_id": "user2124993784",
+   "file": "files/IMG_0615.PNG",
+   "file_name": "IMG_0615.PNG",
+   "file_size": 2717735,
+   "thumbnail": "files/IMG_0615.PNG_thumb.jpg",
+   "thumbnail_file_size": 19595,
+   "mime_type": "image/png",
+   "width": 1024,
+   "height": 1536,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": -999938149,
+   "type": "message",
+   "date": "2026-03-19T18:10:59",
+   "date_unixtime": "1773936659",
+   "from": "Max Dom",
+   "from_id": "user2124993784",
+   "file": "files/IMG_0581.PNG",
+   "file_name": "IMG_0581.PNG",
+   "file_size": 2541644,
+   "thumbnail": "files/IMG_0581.PNG_thumb.jpg",
+   "thumbnail_file_size": 15706,
+   "mime_type": "image/png",
+   "width": 1024,
+   "height": 1536,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": -999938148,
+   "type": "message",
+   "date": "2026-03-19T18:10:59",
+   "date_unixtime": "1773936659",
+   "from": "Max Dom",
+   "from_id": "user2124993784",
+   "file": "files/IMG_0559.PNG",
+   "file_name": "IMG_0559.PNG",
+   "file_size": 4237387,
+   "thumbnail": "files/IMG_0559.PNG_thumb.jpg",
+   "thumbnail_file_size": 22469,
+   "mime_type": "image/png",
+   "width": 1536,
+   "height": 1024,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": -999938147,
+   "type": "message",
+   "date": "2026-03-19T18:10:59",
+   "date_unixtime": "1773936659",
+   "from": "Max Dom",
+   "from_id": "user2124993784",
+   "file": "files/IMG_0498.PNG",
+   "file_name": "IMG_0498.PNG",
+   "file_size": 3293773,
+   "thumbnail": "files/IMG_0498.PNG_thumb.jpg",
+   "thumbnail_file_size": 15539,
+   "mime_type": "image/png",
+   "width": 1024,
+   "height": 1536,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": -999938146,
+   "type": "message",
+   "date": "2026-03-19T18:11:06",
+   "date_unixtime": "1773936666",
+   "from": "Max Dom",
+   "from_id": "user2124993784",
+   "file": "files/IMG_0471.PNG",
+   "file_name": "IMG_0471.PNG",
+   "file_size": 2100674,
+   "thumbnail": "files/IMG_0471.PNG_thumb.jpg",
+   "thumbnail_file_size": 25395,
+   "mime_type": "image/png",
+   "width": 1024,
+   "height": 1024,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": -999938145,
+   "type": "message",
+   "date": "2026-03-19T18:11:06",
+   "date_unixtime": "1773936666",
+   "from": "Max Dom",
+   "from_id": "user2124993784",
+   "file": "files/IMG_0448.JPG",
+   "file_name": "IMG_0448.JPG",
+   "file_size": 676469,
+   "thumbnail": "files/IMG_0448.JPG_thumb.jpg",
+   "thumbnail_file_size": 19533,
+   "mime_type": "image/jpeg",
+   "width": 1024,
+   "height": 1536,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": -999938144,
+   "type": "message",
+   "date": "2026-03-19T18:11:06",
+   "date_unixtime": "1773936666",
+   "from": "Max Dom",
+   "from_id": "user2124993784",
+   "file": "files/IMG_0446.PNG",
+   "file_name": "IMG_0446.PNG",
+   "file_size": 2893862,
+   "thumbnail": "files/IMG_0446.PNG_thumb.jpg",
+   "thumbnail_file_size": 18847,
+   "mime_type": "image/png",
+   "width": 1024,
+   "height": 1536,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": -999938143,
+   "type": "message",
+   "date": "2026-03-19T18:44:59",
+   "date_unixtime": "1773938699",
+   "from": "Maxim",
+   "from_id": "user278171105",
+   "text": "отлично",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "отлично"
+    }
+   ]
+  },
+  {
+   "id": -999938142,
+   "type": "message",
+   "date": "2026-03-19T19:36:17",
+   "date_unixtime": "1773941777",
+   "from": "Max Dom",
+   "from_id": "user2124993784",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "file_name": "sticker.webp",
+   "file_size": 12804,
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "thumbnail_file_size": 6188,
+   "media_type": "sticker",
+   "mime_type": "image/webp",
+   "width": 512,
+   "height": 512,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": -999938141,
+   "type": "message",
+   "date": "2026-03-19T19:36:25",
+   "date_unixtime": "1773941785",
+   "from": "Max Dom",
+   "from_id": "user2124993784",
+   "text": "Жду с нетерпением 😊",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Жду с нетерпением 😊"
+    }
+   ]
+  },
+  {
+   "id": -999938140,
+   "type": "message",
+   "date": "2026-03-19T19:59:24",
+   "date_unixtime": "1773943164",
+   "from": "Max Dom",
+   "from_id": "user2124993784",
+   "file": "files/IMG_1436.PNG",
+   "file_name": "IMG_1436.PNG",
+   "file_size": 777847,
+   "thumbnail": "files/IMG_1436.PNG_thumb.jpg",
+   "thumbnail_file_size": 5660,
+   "mime_type": "image/png",
+   "width": 1536,
+   "height": 1024,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": -999938139,
+   "type": "message",
+   "date": "2026-03-20T16:34:06",
+   "date_unixtime": "1774017246",
+   "from": "Max Dom",
+   "from_id": "user2124993784",
+   "photo": "photos/photo_1@20-03-2026_16-34-06.jpg",
+   "photo_file_size": 68023,
+   "width": 960,
+   "height": 1280,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": -999938138,
+   "type": "message",
+   "date": "2026-03-20T16:34:06",
+   "date_unixtime": "1774017246",
+   "from": "Max Dom",
+   "from_id": "user2124993784",
+   "photo": "photos/photo_2@20-03-2026_16-34-06.jpg",
+   "photo_file_size": 58008,
+   "width": 853,
+   "height": 1280,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": -999938137,
+   "type": "message",
+   "date": "2026-03-20T16:34:06",
+   "date_unixtime": "1774017246",
+   "from": "Max Dom",
+   "from_id": "user2124993784",
+   "photo": "photos/photo_3@20-03-2026_16-34-06.jpg",
+   "photo_file_size": 49426,
+   "width": 853,
+   "height": 1280,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": -999938136,
+   "type": "message",
+   "date": "2026-03-20T16:34:06",
+   "date_unixtime": "1774017246",
+   "from": "Max Dom",
+   "from_id": "user2124993784",
+   "photo": "photos/photo_4@20-03-2026_16-34-06.jpg",
+   "photo_file_size": 101769,
+   "width": 853,
+   "height": 1280,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": -999938135,
+   "type": "message",
+   "date": "2026-03-20T16:34:06",
+   "date_unixtime": "1774017246",
+   "from": "Max Dom",
+   "from_id": "user2124993784",
+   "photo": "photos/photo_5@20-03-2026_16-34-06.jpg",
+   "photo_file_size": 93819,
+   "width": 853,
+   "height": 1280,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": -999938134,
+   "type": "message",
+   "date": "2026-03-20T17:21:30",
+   "date_unixtime": "1774020090",
+   "from": "Max Dom",
+   "from_id": "user2124993784",
+   "text": "Мож че нить уже забацаем))",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Мож че нить уже забацаем))"
+    }
+   ]
+  },
+  {
+   "id": -999938133,
+   "type": "message",
+   "date": "2026-03-20T17:21:38",
+   "date_unixtime": "1774020098",
+   "from": "Max Dom",
+   "from_id": "user2124993784",
+   "text": "Хех 😅",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Хех 😅"
+    }
+   ]
+  },
+  {
+   "id": -999938132,
+   "type": "message",
+   "date": "2026-03-21T17:01:46",
+   "date_unixtime": "1774105306",
+   "from": "Max Dom",
+   "from_id": "user2124993784",
+   "file": "files/IMG_1450.PNG",
+   "file_name": "IMG_1450.PNG",
+   "file_size": 1636550,
+   "thumbnail": "files/IMG_1450.PNG_thumb.jpg",
+   "thumbnail_file_size": 13359,
+   "mime_type": "image/png",
+   "width": 1024,
+   "height": 1536,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": -999938131,
+   "type": "message",
+   "date": "2026-03-21T17:01:46",
+   "date_unixtime": "1774105306",
+   "from": "Max Dom",
+   "from_id": "user2124993784",
+   "file": "files/IMG_1448.PNG",
+   "file_name": "IMG_1448.PNG",
+   "file_size": 1083538,
+   "thumbnail": "files/IMG_1448.PNG_thumb.jpg",
+   "thumbnail_file_size": 16145,
+   "mime_type": "image/png",
+   "width": 1024,
+   "height": 1024,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": -999938130,
+   "type": "message",
+   "date": "2026-03-21T17:01:46",
+   "date_unixtime": "1774105306",
+   "from": "Max Dom",
+   "from_id": "user2124993784",
+   "file": "files/IMG_1447.PNG",
+   "file_name": "IMG_1447.PNG",
+   "file_size": 822567,
+   "thumbnail": "files/IMG_1447.PNG_thumb.jpg",
+   "thumbnail_file_size": 5752,
+   "mime_type": "image/png",
+   "width": 1536,
+   "height": 1024,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": -999938129,
+   "type": "message",
+   "date": "2026-03-21T17:02:19",
+   "date_unixtime": "1774105339",
+   "from": "Max Dom",
+   "from_id": "user2124993784",
+   "file": "files/IMG_1445.JPG",
+   "file_name": "IMG_1445.JPG",
+   "file_size": 210590,
+   "thumbnail": "files/IMG_1445.JPG_thumb.jpg",
+   "thumbnail_file_size": 9180,
+   "mime_type": "image/jpeg",
+   "width": 1024,
+   "height": 1365,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": -999938128,
+   "type": "message",
+   "date": "2026-03-21T17:02:19",
+   "date_unixtime": "1774105339",
+   "from": "Max Dom",
+   "from_id": "user2124993784",
+   "file": "files/IMG_1444.PNG",
+   "file_name": "IMG_1444.PNG",
+   "file_size": 1628799,
+   "thumbnail": "files/IMG_1444.PNG_thumb.jpg",
+   "thumbnail_file_size": 8142,
+   "mime_type": "image/png",
+   "width": 1024,
+   "height": 1536,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": -999938127,
+   "type": "message",
+   "date": "2026-03-21T17:02:19",
+   "date_unixtime": "1774105339",
+   "from": "Max Dom",
+   "from_id": "user2124993784",
+   "file": "files/IMG_1443.PNG",
+   "file_name": "IMG_1443.PNG",
+   "file_size": 1305148,
+   "thumbnail": "files/IMG_1443.PNG_thumb.jpg",
+   "thumbnail_file_size": 7781,
+   "mime_type": "image/png",
+   "width": 1024,
+   "height": 1536,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": -999938126,
+   "type": "message",
+   "date": "2026-03-21T17:02:19",
+   "date_unixtime": "1774105339",
+   "from": "Max Dom",
+   "from_id": "user2124993784",
+   "file": "files/IMG_1442.PNG",
+   "file_name": "IMG_1442.PNG",
+   "file_size": 962779,
+   "thumbnail": "files/IMG_1442.PNG_thumb.jpg",
+   "thumbnail_file_size": 6715,
+   "mime_type": "image/png",
+   "width": 1024,
+   "height": 1536,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": -999938125,
+   "type": "message",
+   "date": "2026-03-21T17:02:19",
+   "date_unixtime": "1774105339",
+   "from": "Max Dom",
+   "from_id": "user2124993784",
+   "file": "files/IMG_1441.PNG",
+   "file_name": "IMG_1441.PNG",
+   "file_size": 1810600,
+   "thumbnail": "files/IMG_1441.PNG_thumb.jpg",
+   "thumbnail_file_size": 15655,
+   "mime_type": "image/png",
+   "width": 1024,
+   "height": 1536,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": -999938124,
+   "type": "message",
+   "date": "2026-03-21T17:02:19",
+   "date_unixtime": "1774105339",
+   "from": "Max Dom",
+   "from_id": "user2124993784",
+   "file": "files/IMG_1440.PNG",
+   "file_name": "IMG_1440.PNG",
+   "file_size": 1487828,
+   "thumbnail": "files/IMG_1440.PNG_thumb.jpg",
+   "thumbnail_file_size": 12309,
+   "mime_type": "image/png",
+   "width": 1024,
+   "height": 1536,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": -999938123,
+   "type": "message",
+   "date": "2026-03-21T18:46:36",
+   "date_unixtime": "1774111596",
+   "from": "Max Dom",
+   "from_id": "user2124993784",
+   "text": "Макс как дела",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Макс как дела"
+    }
+   ]
+  },
+  {
+   "id": -999938122,
+   "type": "message",
+   "date": "2026-03-21T19:43:45",
+   "date_unixtime": "1774115025",
+   "from": "Maxim",
+   "from_id": "user278171105",
+   "text": "нормально. как твои?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "нормально. как твои?"
+    }
+   ]
+  },
+  {
+   "id": -999938121,
+   "type": "message",
+   "date": "2026-03-22T09:55:27",
+   "date_unixtime": "1774166127",
+   "from": "Max Dom",
+   "from_id": "user2124993784",
+   "text": "Да как сказать , не унываем, с мастерской разбираюсь , все не запустить на поток",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Да как сказать , не унываем, с мастерской разбираюсь , все не запустить на поток"
+    }
+   ]
+  },
+  {
+   "id": -999938120,
+   "type": "message",
+   "date": "2026-03-22T16:42:33",
+   "date_unixtime": "1774190553",
+   "from": "Max Dom",
+   "from_id": "user2124993784",
+   "text": "Может че нить забацаем ))",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Может че нить забацаем ))"
+    }
+   ]
+  },
+  {
+   "id": -999938119,
+   "type": "message",
+   "date": "2026-03-22T16:42:36",
+   "date_unixtime": "1774190556",
+   "from": "Max Dom",
+   "from_id": "user2124993784",
+   "file": "files/IMG_1459.PNG",
+   "file_name": "IMG_1459.PNG",
+   "file_size": 1731776,
+   "thumbnail": "files/IMG_1459.PNG_thumb.jpg",
+   "thumbnail_file_size": 13074,
+   "mime_type": "image/png",
+   "width": 1024,
+   "height": 1536,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": -999938118,
+   "type": "message",
+   "date": "2026-03-22T16:42:36",
+   "date_unixtime": "1774190556",
+   "from": "Max Dom",
+   "from_id": "user2124993784",
+   "file": "files/IMG_1458.PNG",
+   "file_name": "IMG_1458.PNG",
+   "file_size": 884425,
+   "thumbnail": "files/IMG_1458.PNG_thumb.jpg",
+   "thumbnail_file_size": 15162,
+   "mime_type": "image/png",
+   "width": 1024,
+   "height": 1024,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": -999938117,
+   "type": "message",
+   "date": "2026-03-22T16:42:36",
+   "date_unixtime": "1774190556",
+   "from": "Max Dom",
+   "from_id": "user2124993784",
+   "file": "files/IMG_1460.PNG",
+   "file_name": "IMG_1460.PNG",
+   "file_size": 898010,
+   "thumbnail": "files/IMG_1460.PNG_thumb.jpg",
+   "thumbnail_file_size": 16527,
+   "mime_type": "image/png",
+   "width": 1024,
+   "height": 1024,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": -999938116,
+   "type": "message",
+   "date": "2026-03-22T16:42:36",
+   "date_unixtime": "1774190556",
+   "from": "Max Dom",
+   "from_id": "user2124993784",
+   "file": "files/IMG_1456.PNG",
+   "file_name": "IMG_1456.PNG",
+   "file_size": 425305,
+   "thumbnail": "files/IMG_1456.PNG_thumb.jpg",
+   "thumbnail_file_size": 7342,
+   "mime_type": "image/png",
+   "width": 1024,
+   "height": 1024,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": -999938115,
+   "type": "message",
+   "date": "2026-03-22T16:42:36",
+   "date_unixtime": "1774190556",
+   "from": "Max Dom",
+   "from_id": "user2124993784",
+   "file": "files/IMG_1457.PNG",
+   "file_name": "IMG_1457.PNG",
+   "file_size": 1398227,
+   "thumbnail": "files/IMG_1457.PNG_thumb.jpg",
+   "thumbnail_file_size": 12404,
+   "mime_type": "image/png",
+   "width": 1024,
+   "height": 1536,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": -999938114,
+   "type": "message",
+   "date": "2026-03-23T11:57:08",
+   "date_unixtime": "1774259828",
+   "from": "Max Dom",
+   "from_id": "user2124993784",
+   "text": "Может че нить еще сделать Макс?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Может че нить еще сделать Макс?"
+    }
+   ]
+  },
+  {
+   "id": -999938113,
+   "type": "message",
+   "date": "2026-03-23T11:57:25",
+   "date_unixtime": "1774259845",
+   "from": "Max Dom",
+   "from_id": "user2124993784",
+   "text": "А то жопа горит результат увидеть какой-нибудь )",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "А то жопа горит результат увидеть какой-нибудь )"
+    }
+   ]
+  },
+  {
+   "id": -999938112,
+   "type": "message",
+   "date": "2026-03-23T12:08:59",
+   "date_unixtime": "1774260539",
+   "from": "Maxim",
+   "from_id": "user278171105",
+   "text": "ты логотип не думал менять? мы на этом остановились?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "ты логотип не думал менять? мы на этом остановились?"
+    }
+   ]
+  },
+  {
+   "id": -999938111,
+   "type": "message",
+   "date": "2026-03-23T12:09:10",
+   "date_unixtime": "1774260550",
+   "from": "Maxim",
+   "from_id": "user278171105",
+   "text": "просто где-то у тебя один логотип, где-то другой",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "просто где-то у тебя один логотип, где-то другой"
+    }
+   ]
+  },
+  {
+   "id": -999938110,
+   "type": "message",
+   "date": "2026-03-23T12:09:44",
+   "date_unixtime": "1774260584",
+   "from": "Maxim",
+   "from_id": "user278171105",
+   "text": "тут снизу на фотках тоже видел",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "тут снизу на фотках тоже видел"
+    }
+   ]
+  },
+  {
+   "id": -999938109,
+   "type": "message",
+   "date": "2026-03-23T12:10:08",
+   "date_unixtime": "1774260608",
+   "from": "Max Dom",
+   "from_id": "user2124993784",
+   "photo": "photos/photo_6@23-03-2026_12-10-08.jpg",
+   "photo_file_size": 61108,
+   "width": 1137,
+   "height": 640,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": -999938108,
+   "type": "message",
+   "date": "2026-03-23T12:12:34",
+   "date_unixtime": "1774260754",
+   "from": "Max Dom",
+   "from_id": "user2124993784",
+   "text": "Давай его всеж",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Давай его всеж"
+    }
+   ]
+  },
+  {
+   "id": -999938107,
+   "type": "message",
+   "date": "2026-03-23T12:12:57",
+   "date_unixtime": "1774260777",
+   "from": "Maxim",
+   "from_id": "user278171105",
+   "text": "есть он у тебя в векторе?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "есть он у тебя в векторе?"
+    }
+   ]
+  },
+  {
+   "id": -999938106,
+   "type": "message",
+   "date": "2026-03-23T12:13:07",
+   "date_unixtime": "1774260787",
+   "from": "Maxim",
+   "from_id": "user278171105",
+   "text": "SVG формат",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "SVG формат"
+    }
+   ]
+  },
+  {
+   "id": -999938105,
+   "type": "message",
+   "date": "2026-03-23T12:13:50",
+   "date_unixtime": "1774260830",
+   "from": "Max Dom",
+   "from_id": "user2124993784",
+   "file": "files/IMG_0789.JPG",
+   "file_name": "IMG_0789.JPG",
+   "file_size": 43099,
+   "thumbnail": "files/IMG_0789.JPG_thumb.jpg",
+   "thumbnail_file_size": 13641,
+   "mime_type": "image/jpeg",
+   "width": 540,
+   "height": 540,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": -999938104,
+   "type": "message",
+   "date": "2026-03-23T12:14:14",
+   "date_unixtime": "1774260854",
+   "from": "Max Dom",
+   "from_id": "user2124993784",
+   "text": "Ок боюсь что нет",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Ок боюсь что нет"
+    }
+   ]
+  },
+  {
+   "id": -999938103,
+   "type": "message",
+   "date": "2026-03-23T12:32:48",
+   "date_unixtime": "1774261968",
+   "from": "Maxim",
+   "from_id": "user278171105",
+   "text": "а какие форматы есть? ты же как-то выжигаешь его на товарах? или через ЧПУ?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "а какие форматы есть? ты же как-то выжигаешь его на товарах? или через ЧПУ?"
+    }
+   ]
+  },
+  {
+   "id": -999938102,
+   "type": "message",
+   "date": "2026-03-23T12:38:22",
+   "date_unixtime": "1774262302",
+   "from": "Max Dom",
+   "from_id": "user2124993784",
+   "file": "files/dom studio visiitkaart.pdf",
+   "file_name": "dom studio visiitkaart.pdf",
+   "file_size": 647473,
+   "thumbnail": "files/dom studio visiitkaart.pdf_thumb.jpg",
+   "thumbnail_file_size": 5627,
+   "mime_type": "application/pdf",
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": -999938101,
+   "type": "message",
+   "date": "2026-03-23T12:38:22",
+   "date_unixtime": "1774262302",
+   "from": "Max Dom",
+   "from_id": "user2124993784",
+   "file": "files/dom_banner.pdf",
+   "file_name": "dom_banner.pdf",
+   "file_size": 625556,
+   "thumbnail": "files/dom_banner.pdf_thumb.jpg",
+   "thumbnail_file_size": 8285,
+   "mime_type": "application/pdf",
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": -999938100,
+   "type": "message",
+   "date": "2026-03-23T12:38:22",
+   "date_unixtime": "1774262302",
+   "from": "Max Dom",
+   "from_id": "user2124993784",
+   "file": "files/dom_banner (1).pdf",
+   "file_name": "dom_banner.pdf",
+   "file_size": 625556,
+   "thumbnail": "files/dom_banner (1).pdf_thumb.jpg",
+   "thumbnail_file_size": 8285,
+   "mime_type": "application/pdf",
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": -999938099,
+   "type": "message",
+   "date": "2026-03-23T12:38:22",
+   "date_unixtime": "1774262302",
+   "from": "Max Dom",
+   "from_id": "user2124993784",
+   "file": "files/engrave.pdf",
+   "file_name": "engrave.pdf",
+   "file_size": 649289,
+   "thumbnail": "files/engrave.pdf_thumb.jpg",
+   "thumbnail_file_size": 9418,
+   "mime_type": "application/pdf",
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": -999938098,
+   "type": "message",
+   "date": "2026-03-23T12:39:43",
+   "date_unixtime": "1774262383",
+   "from": "Maxim",
+   "from_id": "user278171105",
+   "text": "с этим думаю можно будет работать",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "с этим думаю можно будет работать"
+    }
+   ]
+  },
+  {
+   "id": -999938097,
+   "type": "message",
+   "date": "2026-03-23T12:39:51",
+   "date_unixtime": "1774262391",
+   "from": "Max Dom",
+   "from_id": "user2124993784",
+   "text": "Огон",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Огон"
+    }
+   ]
+  },
+  {
+   "id": -999938096,
+   "type": "message",
+   "date": "2026-03-23T13:08:50",
+   "date_unixtime": "1774264130",
+   "from": "Max Dom",
+   "from_id": "user2124993784",
+   "text": "Не делаешь еще ничего?🥹",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Не делаешь еще ничего?🥹"
+    }
+   ]
+  },
+  {
+   "id": -999938095,
+   "type": "message",
+   "date": "2026-03-23T13:19:48",
+   "date_unixtime": "1774264788",
+   "from": "Maxim",
+   "from_id": "user278171105",
+   "text": "ну я же написал что нет сейчас времени нет особо на это. в апреле надо будет заниматься",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "ну я же написал что нет сейчас времени нет особо на это. в апреле надо будет заниматься"
+    }
+   ]
+  },
+  {
+   "id": -999938094,
+   "type": "message",
+   "date": "2026-03-23T13:20:25",
+   "date_unixtime": "1774264825",
+   "from": "Max Dom",
+   "from_id": "user2124993784",
+   "text": "Понял Макс",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Понял Макс"
+    }
+   ]
+  },
+  {
+   "id": -999938093,
+   "type": "message",
+   "date": "2026-03-23T14:25:06",
+   "date_unixtime": "1774268706",
+   "from": "Max Dom",
+   "from_id": "user2124993784",
+   "text": "Макс давай добавим чувака",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Макс давай добавим чувака"
+    }
+   ]
+  },
+  {
+   "id": -999938092,
+   "type": "message",
+   "date": "2026-03-23T14:25:25",
+   "date_unixtime": "1774268725",
+   "from": "Max Dom",
+   "from_id": "user2124993784",
+   "text": "Он попробует замутить",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Он попробует замутить"
+    }
+   ]
+  },
+  {
+   "id": -999938091,
+   "type": "message",
+   "date": "2026-03-23T14:25:32",
+   "date_unixtime": "1774268732",
+   "from": "Max Dom",
+   "from_id": "user2124993784",
+   "text": "Заодно пообщаемся ))",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Заодно пообщаемся ))"
+    }
+   ]
+  },
+  {
+   "id": -999938090,
+   "type": "message",
+   "date": "2026-03-23T14:25:42",
+   "date_unixtime": "1774268742",
+   "from": "Max Dom",
+   "from_id": "user2124993784",
+   "text": "Я просто не могу ты владелец а тут у инфа",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Я просто не могу ты владелец а тут у инфа"
+    }
+   ]
+  },
+  {
+   "id": -999938089,
+   "type": "service",
+   "date": "2026-03-23T14:25:54",
+   "date_unixtime": "1774268754",
+   "actor": "Max Dom",
+   "actor_id": "user2124993784",
+   "action": "invite_members",
+   "members": [
+    "Prorok"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": -999938088,
+   "type": "service",
+   "date": "2026-03-23T14:29:08",
+   "date_unixtime": "1774268948",
+   "actor": "Maxim",
+   "actor_id": "user278171105",
+   "action": "migrate_to_supergroup",
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 1,
+   "type": "service",
+   "date": "2026-03-23T14:29:07",
+   "date_unixtime": "1774268947",
+   "actor": "Dom.Studio Website",
+   "actor_id": "channel3731549466",
+   "action": "migrate_from_group",
+   "title": "Dom.Studio Website",
+   "text": "",
+   "text_entities": []
+  }
+ ]
+}
