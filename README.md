@@ -28,7 +28,7 @@ python -m http.server 8000 --directory website
 python3 visual_qa.py
 ```
 
-По умолчанию скрипт ожидает, что локальный сервер уже запущен на `http://127.0.0.1:8000`, и сохраняет скриншоты и отчёт в:
+По умолчанию скрипт ожидает, что локальный сервер уже запущен, а проверяемая версия сайта доступна по адресу `http://127.0.0.1:8000/v2`. Скриншоты и отчёт сохраняются в:
 
 ```text
 /tmp/domstudio-qa
@@ -37,18 +37,20 @@ python3 visual_qa.py
 При необходимости можно переопределить адрес и папку вывода:
 
 ```bash
-python3 visual_qa.py --base-url http://127.0.0.1:8000 --out-dir /tmp/domstudio-qa
+python3 visual_qa.py --base-url http://127.0.0.1:8000/v3 --out-dir /tmp/domstudio-qa
 ```
 
 ## Структура
 
-- `website/index.html` — root redirect на язык по умолчанию
-- `website/et/index.html` — эстонская версия
-- `website/ru/index.html` — русская версия
-- `website/assets/` — общие стили, скрипты и изображения
+- `website/index.html` — корневая страница со ссылками на опубликованные версии
+- `website/v1/`, `website/v2/`, `website/vX/` — самодостаточные версии сайта
+- `website/vX/index.html` — redirect на язык по умолчанию внутри конкретной версии
+- `website/vX/et/index.html` — эстонская версия внутри конкретной версии
+- `website/vX/ru/index.html` — русская версия внутри конкретной версии
+- `website/vX/assets/` — стили, скрипты и изображения конкретной версии
 - `visual_qa.py` — локальный браузерный smoke/visual QA для Chromium + Selenium
 
-Чтобы сменить язык по умолчанию, достаточно изменить redirect в `website/index.html`.
+Новые изменения нужно вносить в новую папку версии, а не поверх предыдущей опубликованной версии.
 
 ## Deploy
 

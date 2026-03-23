@@ -128,8 +128,8 @@ def parse_args() -> argparse.Namespace:
     )
     parser.add_argument(
         "--base-url",
-        default="http://127.0.0.1:8000",
-        help="Base URL of the locally served website.",
+        default="http://127.0.0.1:8000/v2",
+        help="Base URL of the specific locally served site version, for example http://127.0.0.1:8000/v2.",
     )
     parser.add_argument(
         "--out-dir",

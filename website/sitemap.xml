@@ -3,22 +3,22 @@
   <url>
     <loc>https://dom-studio.github.io/landing/v2/</loc>
     <lastmod>2026-03-23</lastmod>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://dom-studio.github.io/landing/" />
-    <xhtml:link rel="alternate" hreflang="et" href="https://dom-studio.github.io/landing/et/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://dom-studio.github.io/landing/ru/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dom-studio.github.io/landing/v2/" />
+    <xhtml:link rel="alternate" hreflang="et" href="https://dom-studio.github.io/landing/v2/et/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://dom-studio.github.io/landing/v2/ru/" />
   </url>
   <url>
     <loc>https://dom-studio.github.io/landing/v2/et/</loc>
     <lastmod>2026-03-23</lastmod>
-    <xhtml:link rel="alternate" hreflang="et" href="https://dom-studio.github.io/landing/et/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://dom-studio.github.io/landing/ru/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://dom-studio.github.io/landing/" />
+    <xhtml:link rel="alternate" hreflang="et" href="https://dom-studio.github.io/landing/v2/et/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://dom-studio.github.io/landing/v2/ru/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dom-studio.github.io/landing/v2/" />
   </url>
   <url>
     <loc>https://dom-studio.github.io/landing/v2/ru/</loc>
     <lastmod>2026-03-23</lastmod>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://dom-studio.github.io/landing/ru/" />
-    <xhtml:link rel="alternate" hreflang="et" href="https://dom-studio.github.io/landing/et/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://dom-studio.github.io/landing/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://dom-studio.github.io/landing/v2/ru/" />
+    <xhtml:link rel="alternate" hreflang="et" href="https://dom-studio.github.io/landing/v2/et/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dom-studio.github.io/landing/v2/" />
   </url>
 </urlset>
