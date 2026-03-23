@@ -4,6 +4,7 @@
     "dockerfile": "Dockerfile",
     "context": ".."
   },
+  "remoteUser": "root",
   "containerEnv": {
     "ANSIBLE_VAULT_PASSWORD_FILE": "/home/vscode/.ansible/vault.pass",
     "ANSIBLE_LOCAL_TEMP": "/tmp/.ansible-local"
@@ -25,12 +26,12 @@
   },
   "forwardPorts": [],
   "postStartCommand": "",
-  "containerUser": "vscode",
+  "containerUser": "root",
   "runArgs": ["--userns=keep-id", "--add-host=gitea.internal:host-gateway"],
   "workspaceMount": "source=${localWorkspaceFolder},target=/workspace,type=bind,Z",
   "workspaceFolder": "/workspace",
   "mounts": [
-    "source=${localWorkspaceFolderBasename}-home,target=/home/vscode,type=volume"
+    "source=${localWorkspaceFolderBasename}-home,target=/root,type=volume"
   ],
   "postCreateCommand": "bash -lc 'bash /workspace/.devcontainer/postCreate.sh'"
 }

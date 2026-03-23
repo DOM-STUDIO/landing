@@ -8,9 +8,16 @@ HEALTHCHECK --interval=30s --timeout=5s --start-period=20s --retries=3 \
 # trunk-ignore(hadolint/DL3041)
 RUN dnf -y install \
       python3-pip \
+      python3-selenium \
       nodejs \
       python3-identify \
       jq \
+      chromium \
+      chromedriver \
+      xorg-x11-server-Xvfb \
+      google-noto-sans-fonts \
+      google-noto-serif-fonts \
+      ImageMagick \
  && dnf -y clean all \
  && rm -rf /var/cache/dnf
 

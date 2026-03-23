@@ -20,12 +20,33 @@ http://localhost:8000
 python -m http.server 8000 --directory website
 ```
 
+## Visual QA
+
+Для быстрой визуальной проверки сайта после сборки контейнера можно использовать:
+
+```bash
+python3 visual_qa.py
+```
+
+По умолчанию скрипт ожидает, что локальный сервер уже запущен на `http://127.0.0.1:8000`, и сохраняет скриншоты и отчёт в:
+
+```text
+/tmp/domstudio-qa
+```
+
+При необходимости можно переопределить адрес и папку вывода:
+
+```bash
+python3 visual_qa.py --base-url http://127.0.0.1:8000 --out-dir /tmp/domstudio-qa
+```
+
 ## Структура
 
 - `website/index.html` — root redirect на язык по умолчанию
 - `website/et/index.html` — эстонская версия
 - `website/ru/index.html` — русская версия
 - `website/assets/` — общие стили, скрипты и изображения
+- `visual_qa.py` — локальный браузерный smoke/visual QA для Chromium + Selenium
 
 Чтобы сменить язык по умолчанию, достаточно изменить redirect в `website/index.html`.
 
